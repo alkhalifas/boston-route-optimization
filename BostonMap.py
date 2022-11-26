@@ -10,3 +10,4 @@ class BostonMap:
         self.nodes = {}
 
     def add_node(self, node):
+        return None
