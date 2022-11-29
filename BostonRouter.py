@@ -1,3 +1,2 @@
+from collections import deque
 
-
-class BostonRouter:
